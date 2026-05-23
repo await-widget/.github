@@ -1,4 +1,4 @@
-<p align="center"><img width="128" src="https://raw.githubusercontent.com/await-widget/.github/refs/heads/main/assets/app-icon.webp" /></p>
+<p align="center"><img width="128" src="https://github.com/user-attachments/assets/c720d35b-33a1-43b5-b02c-024ced266a38" /></p>
 
 <h1 align="center">Await</h1>
 
