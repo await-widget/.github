@@ -11,4 +11,5 @@
 - [Download Await](https://apps.apple.com/app/id6755678187)
 - [Developer Docs](https://docs.awaitwidget.com)
 - [Await Widget Skills](https://github.com/await-widget/skills)
+- [Await Awesome List](https://github.com/await-widget/awesome-await-widgets)
 - [Privacy Policy](https://github.com/await-widget/skills/blob/main/PRIVACY.md)
